@@ -97,4 +97,4 @@ Fiber-Rich Diet 🥦🌾: Improves gut health and lowers LDL cholesterol.
 🔍 Monthly Health Tracking: Monitor blood pressure, cholesterol, and stress levels. 
 
 📈 Data-Driven Adjustments: If certain factors show high risk, tweak diet and activity accordingly. 
-[linkedin](www.linkedin.com/in/oke-julius-08054779)
+## [linkedin](www.linkedin.com/in/oke-julius-08054779)
